@@ -1,6 +1,10 @@
 package com.ds.basics.linkedlist;
 
-import javax.print.event.PrintJobAttributeListener;
+/**
+ * This is basic implementation of Linked List
+ * 
+ * 
+ * */
 
 public class LinkedList1 {
 	 Node headNode; 
